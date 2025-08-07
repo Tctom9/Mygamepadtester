@@ -22,10 +22,6 @@ Whether you're a gamer, developer, or technician, MyGamepadTester helps you:
 
 👉 [Click here to open MyGamepadTester](https://www.mygamepadtester.com)
 
-### 📷 Screenshots
-
-> *(Insert screenshots here if available for GitHub preview)*
-
 ### 💡 Use Cases
 
 - Diagnosing controller issues  
